@@ -10,3 +10,4 @@ learning about styled components
 ### section 9
 learning about debugging
 using react dev tools, and error message to fix bug
+make project using props, useState, eventHadler
