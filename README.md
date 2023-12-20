@@ -20,4 +20,6 @@ learning about what is useRef, and how to use;
 learning about controled(using state)/uncontroled(using ref) component
 
 ### section 12
-learning about Effects, Reducers & Context
+learning about Side Effects, Reducers & Context
+useEffect execute after all other components re-loading when dependencies change
+learning how to use useEffect
