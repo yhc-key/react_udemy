@@ -10,7 +10,14 @@ learning about styled components
 ### section 9
 learning about debugging
 using react dev tools, and error message to fix bug
-make projects using props, useState, eventHadler, Card component, Button component
 
 ### section 10
-learning about Wrapper to reduce using <div> 
+make projects using props, useState, eventHadler, Card component, Button component
+
+### section 11
+learning about Wrapper, React.fragment to reduce using <div>;
+learning about what is useRef, and how to use;
+learning about controled(using state)/uncontroled(using ref) component
+
+### section 12
+learning about Effects, Reducers & Context
