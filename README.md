@@ -20,6 +20,17 @@ learning about what is useRef, and how to use;
 learning about controled(using state)/uncontroled(using ref) component
 
 ### section 12
-learning about Side Effects, Reducers & Context
-useEffect execute after all other components re-loading when dependencies change
-learning how to use useEffect
+learning about Side Effects, Reducers & Context  
+useEffect execute after all other components re-loading when dependencies change  
+learning how to use useEffect  
+
+#### useState vs useReducer
+useReducer can use when a complex state we use. useReducer is more powerful state management  
+useState is using in main state and useful in symple update  
+useReducer is using in related pieces of state/data or complex state updates
+
+#### context API
+using context API when managing global state
+It is not suitable for use if it changes frequently. -> Redux is better way
+not use context API in everything
+![Rules of Hooks](images/RoH.png)
