@@ -52,13 +52,15 @@ learn about how to use useMemo.
 
 ### section 15
 learn about what is class component  
-no more using but it's important past project.  
+no more using but it's important past project.   
 
 ### section 16
-learn how to transmit http  
-using Star Wars API  
-learn about server response 2xx ~ 5xx
-using firebase to study get, post request using fetch
+learn how to transmit http    
+using Star Wars API    
+learn about server response 2xx ~ 5xx  
+using firebase to study get, post request using fetch  
 
 ### section 17
-learn about custom hook
+learn about custom hook  
+custom hook must need to start name in 'use'; it give information to react that this is custom hook.  
+using custom hook to fetch data
