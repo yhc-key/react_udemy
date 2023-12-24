@@ -61,6 +61,9 @@ learn about server response 2xx ~ 5xx
 using firebase to study get, post request using fetch  
 
 ### section 17
-learn about custom hook  
-custom hook must need to start name in 'use'; it give information to react that this is custom hook.  
-using custom hook to fetch data
+learn about custom hook    
+custom hook must need to start name in 'use'; it give information to react that this is custom hook.    
+using custom hook to fetch data  
+using .bind() to avoid deep nesting  
+
+### section 18
