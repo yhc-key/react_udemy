@@ -51,9 +51,14 @@ If rerendering, all const, function, etc... is created new. If raw value, it doe
 learn about how to use useMemo.
 
 ### section 15
-learn about what is class component
-no more using but it's important past project.
+learn about what is class component  
+no more using but it's important past project.  
 
 ### section 16
-learn how to transmit http
-using Star Wars API
+learn how to transmit http  
+using Star Wars API  
+learn about server response 2xx ~ 5xx
+using firebase to study get, post request using fetch
+
+### section 17
+learn about custom hook
