@@ -67,3 +67,4 @@ using custom hook to fetch data
 using .bind() to avoid deep nesting  
 
 ### section 18
+leran about how to make form validation 
