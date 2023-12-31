@@ -79,3 +79,26 @@ It doesn't work at first time rendering.
 ### section 19
 Learn about Redux
 redux : state management system for cross-component or app-wide state
+Both can use in Cross-Component State and App-Wide State (redux and context)  
+Learn about how to use redux in class component.  
+using export default connect(mapStatetoProps, mapDispatchToProps)(Counter) and this
+how to use reduxjs/toolkit. It use immer package so it makes automatically make copy object. so it's easy to make function  
+
+#### context - Potentinal Disadvantages  
+- Complex Setup /Management
+![complexContext](<images/complexContext.png>)
+
+
+- Performance
+Redux is much better tool than context.   
+React Context is not optimized for high-frequency state changes
+
+#### Core Redux Concepts
+![ReduxWork](images/ReduxWork.png)
+Central Data(State) Store -> Subscription -> Component.  
+Component don't direct change central data.  
+We need to use Reducer Function. - It doesn't same useReducer().  
+Action -> simple js object. 
+
+#### Reducer Function
+![ReducerFunction](images/ReducerFunction.png)

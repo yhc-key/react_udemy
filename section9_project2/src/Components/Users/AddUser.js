@@ -8,7 +8,14 @@ const AddUser = (props) => {
   const [enteredUsername, setEnteredUsername] = useState("");
   const [enteredAge, setEnteredAge] = useState("");
   const [error, setError] = useState();
+  const [count, setCount] = useState(0);
 
+  const handleCount = () => {
+    setCount(prev => prev+1);
+    setCount(prev => prev+1);
+    setCount(prev => prev+1);
+    setCount(prev => prev+1);
+  }
   const addUserHandler = (event) => {
     event.preventDefault();
     if (enteredUsername.trim().length === 0 || enteredAge.trim().length === 0) {
@@ -41,6 +48,8 @@ const AddUser = (props) => {
 
   return (
     <div>
+      {count}
+      <button onClick={handleCount}>버튼</button>
       {error && <ErrorModal title={error.title} message={error.message} onConfirm={errorHandler}/> }
       <Card className={styled.input}>
         <form onSubmit={addUserHandler}>
