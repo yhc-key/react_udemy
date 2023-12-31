@@ -69,3 +69,13 @@ using .bind() to avoid deep nesting
 ### section 18
 leran about how to make form validation 
 learn about how to make input form using useState or customHooks
+
+### section 18 2 
+By updating of lecture, section number is changed. So this is second section 18.  
+Learn how to make project by a to z to try to make app  
+Learn how to use useEffect cleanup function. Clean up works before updating or Unmounting.  
+It doesn't work at first time rendering.  
+
+### section 19
+Learn about Redux
+redux : state management system for cross-component or app-wide state
