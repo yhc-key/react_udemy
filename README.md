@@ -102,3 +102,13 @@ Action -> simple js object.
 
 #### Reducer Function
 ![ReducerFunction](images/ReducerFunction.png)
+
+### section 20
+Practice redux one more time.  
+Using redux in async system - firebase backend  
+add async await using useEffect to App.js  
+Thunk : A function that delays an action until later
+Learn how to use redux devtool
+
+### section 21
+Make SPA page with react router.
