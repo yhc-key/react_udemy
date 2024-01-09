@@ -14,7 +14,6 @@ export async function loader({ request, params }) {
 
   const response = await fetch("http://localhost:8080/events/" + eventid, {
     method: request.method,
-    
   });
 
   if (!response.ok) {
