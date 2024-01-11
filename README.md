@@ -1,4 +1,4 @@
-# react_udemy
+ㅎㅋ ㅊㅊ. ㅎㅊㅊ후# react_udemy
 
 ## Practice react by making react project in udemy lecture
 
@@ -112,3 +112,11 @@ Learn how to use redux devtool
 
 ### section 21
 Make SPA page with react router.
+Learn about two ways to use react-router. One way is using jsx code, and another way is using object.  
+Learn about how to use dynamic routing and index route   
+section21 second project start for usign router.
+Learn about validation  
+
+### section 22
+Make authentication using react.  
+
