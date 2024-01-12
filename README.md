@@ -1,5 +1,3 @@
-ㅎㅋ ㅊㅊ. ㅎㅊㅊ후# react_udemy
-
 ## Practice react by making react project in udemy lecture
 
 ### section 1~8
