@@ -115,6 +115,7 @@ Learn about how to use dynamic routing and index route
 section21 second project start for usign router.
 Learn about validation  
 
-### section 22
-Make authentication using react.  
-
+### section 22  
+Make authentication using react.    
+![authentication](images/Authentication_react.png)  
+Using quaryParams to route auth page.  
