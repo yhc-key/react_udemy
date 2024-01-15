@@ -119,3 +119,7 @@ Learn about validation
 Make authentication using react.    
 ![authentication](images/Authentication_react.png)  
 Using quaryParams to route auth page.  
+Using loader, action to fetch data from api authentication
+
+### section 23
+Learn about how to release project.
