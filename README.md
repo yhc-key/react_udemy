@@ -123,3 +123,5 @@ Using loader, action to fetch data from api authentication
 
 ### section 23
 Learn about how to release project.
+Learn about lazy loading.
+Learn how to use optimizing tool.
