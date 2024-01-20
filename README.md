@@ -122,8 +122,13 @@ Using quaryParams to route auth page.
 Using loader, action to fetch data from api authentication
 
 ### section 23
-Learn about how to release project.
-Learn about lazy loading.
-Lazy loading : Load code only when it's needed.
-Learn how to use optimizing tool.
-Learn how to build project. And learn about difference about personal project and build-in project
+Learn about how to release project.  
+Learn about lazy loading.  
+Lazy loading : Load code only when it's needed.  
+Learn how to use optimizing tool.  
+Learn how to build project. And learn about difference about personal project and build-in project  
+Learn about difference about SSR and CSR in build project.  
+Firebase hosting asks me if I have set it up as SPA.   
+If you check that option, then firebase make setting that go to index.html when user write any url.   
+If you use other release program, and don't have SPA setting, then you need to set like this.  
+![section23_buildinSetting](images/section23_buildinSetting.png)
