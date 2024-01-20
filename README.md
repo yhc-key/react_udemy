@@ -126,3 +126,4 @@ Learn about how to release project.
 Learn about lazy loading.
 Lazy loading : Load code only when it's needed.
 Learn how to use optimizing tool.
+Learn how to build project. And learn about difference about personal project and build-in project
