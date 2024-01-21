@@ -132,3 +132,7 @@ Firebase hosting asks me if I have set it up as SPA.
 If you check that option, then firebase make setting that go to index.html when user write any url.   
 If you use other release program, and don't have SPA setting, then you need to set like this.  
 ![section23_buildinSetting](images/section23_buildinSetting.png)
+
+### section 26
+Learn about css animation  
+
