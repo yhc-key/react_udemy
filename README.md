@@ -133,6 +133,14 @@ If you check that option, then firebase make setting that go to index.html when 
 If you use other release program, and don't have SPA setting, then you need to set like this.  
 ![section23_buildinSetting](images/section23_buildinSetting.png)
 
+### section 24
+
+
+### section 25
+Learn about how to use react-query.  
+
+
+
 ### section 26
 Learn about css animation  
 
